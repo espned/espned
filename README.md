@@ -2,7 +2,7 @@
 _________________________________________________________________________
 #### Desenvolvedor Web Junior | Programador 
 
-#### EStudandte de Engenharia de Software na UniCesumar
+#### Estudante de Engenharia de Software na UniCesumar
 
 <!--
 # Hello word, l'm Elivelton
