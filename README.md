@@ -1,5 +1,5 @@
 # Hello world, l'm Elivelton ![octocat](https://user-images.githubusercontent.com/60757768/87687964-bec93f00-c75c-11ea-89b8-d487d96309ad.png)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logocolor=white&limk=https://www.linkedin.com/in/elivelton-passoss/)1(https://www.linkedin.com/in/elivelton-passoss/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logocolor=white&limk=https://www.linkedin.com/in/elivelton-passoss/)l(https://www.linkedin.com/in/elivelton-passoss/
 _________________________________________________________________________
 #### Desenvolvedor Web Junior | Programador 
 #### Estudante de Engenharia de Software na UniCesumar
@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
