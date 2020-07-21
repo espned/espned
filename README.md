@@ -1,6 +1,4 @@
 # Hello world, l'm Elivelton ![octocat](https://user-images.githubusercontent.com/60757768/87687964-bec93f00-c75c-11ea-89b8-d487d96309ad.png)
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="elivelton-passoss"><a class="LI-simple-link" href='https://br.linkedin.com/in/elivelton-passoss?trk=profile-badge'>Elivelton Passos</a></div>
 _________________________________________________________________________
 #### Desenvolvedor Web Junior | Programador 
 #### Estudante de Engenharia de Software na UniCesumar
