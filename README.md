@@ -2,7 +2,8 @@
 _________________________________________________________________________
 #### Desenvolvedor Web Junior | Programador | Freelancer 
 #### Estudante de Engenharia de Software na UniCesumar
-##### - 🔭 I currently work as a freelancer
+##### - 🔭 I currently work as a Freelancer
+##### - 🌱 I’m currently learning Flutter e Mobile IOS
 <!--
 # Hello word, l'm Elivelton
 **espned/espned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
