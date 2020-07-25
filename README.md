@@ -3,7 +3,7 @@ _________________________________________________________________________
 #### Desenvolvedor Web Junior | Programador | Freelancer 
 #### Estudante de Engenharia de Software na UniCesumar
 ##### - 🔭 I currently work as a Freelancer
-##### - 🌱 I’m currently learning Flutter e Mobile 
+##### - 🌱 I’m currently learning Flutter e Mobile IOS
 ##### - 🤔 I’m looking for help with Opportunity as a junior developer
 <!--
 # Hello word, l'm Elivelton
