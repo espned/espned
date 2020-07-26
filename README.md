@@ -1,6 +1,6 @@
 # Hello world, l'm Elivelton ![octocat](https://user-images.githubusercontent.com/60757768/87687964-bec93f00-c75c-11ea-89b8-d487d96309ad.png)
 _________________________________________________________________________
-#### Desenvolvedor Web Junior | Programador |  
+#### Desenvolvedor Web Junior | Programador |  Freelancer
 #### Estudante de Engenharia de Software na UniCesumar
 ##### - 🔭 I currently work as a Freelancer
 ##### - 🌱 I’m currently learning Flutter e Mobile IOS
