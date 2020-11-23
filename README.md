@@ -7,7 +7,6 @@ _________________________________________________________________________
 ##### - 🤔 I’m looking for help with Opportunity as a junior developer kk
 kkkk
 kk
-k
 <!--
 # Hello word, l'm Elivelton 
 **espned/espned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
