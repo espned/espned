@@ -4,7 +4,7 @@ _________________________________________________________________________
 #### Estudante de Engenharia de Software na UniCesumar
 ##### - 🔭 I currently work as a Freelancer
 ##### - 🌱 I’m currently learning Flutter e Mobile Android | IOS
-##### - 🤔 I’m looking for help with Opportunity as a junior developer kk
+##### - 🤔 I’m looking for help with Opportunity as a junior developer 
 <!--
 # Hello word, l'm Elivelton 
 **espned/espned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
